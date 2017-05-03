@@ -1,5 +1,5 @@
-TDD example with Unity
-======================
+Skeleton project to TDD with Unity
+==================================
 
 Setup
 -----
